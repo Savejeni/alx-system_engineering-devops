@@ -1,3 +1,2 @@
 #!/bin/bash
-SCRIPT_PATH= “${BASH_SOURCE:-$0}”
-echo ‘The absolute path is’ $path
+echo 'The absolute path is' $"${BASH_SOURCE:-$0}"
