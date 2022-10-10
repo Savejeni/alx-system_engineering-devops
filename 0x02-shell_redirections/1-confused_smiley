@@ -1,3 +1,2 @@
 #!/bin/bash
-echo -e "\U0001F615">confused_smiley
-cat confused_smiley
+echo -e "\U0001F615"
